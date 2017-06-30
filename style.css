@@ -1,0 +1,9 @@
+/* css reset */
+body {
+	width: 1000px;
+}
+
+img {
+	height: 150px;
+	display: inline-block;
+}
